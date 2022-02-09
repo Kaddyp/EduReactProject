@@ -5,9 +5,9 @@ const Footer = (props) => {
     return(
         <React.Fragment>
             <hr/>
-            <footer>
-                <h3>&copy; TSL Products {props.year} All Rights Reserved</h3>
-            </footer>
+            <center>
+                <h5>&copy; Diyan Soft {props.year} All Rights Reserved</h5>
+            </center>
         </React.Fragment>
     )
 }

@@ -6,7 +6,7 @@ class Header extends Component {
         super()
 
         this.state={
-            heading:"TSL Products Online Store",
+            heading:"Demo Online Store",
             keywords:"User Input Here"
         }
     }
